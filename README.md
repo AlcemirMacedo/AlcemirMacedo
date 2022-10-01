@@ -2,7 +2,7 @@
 - 👋 Olá, eu sou Alcemir Macêdo<br/>
 - 👀 Tenho interesse em Tecnologias Front-end e Back-end<br/>
 - 🌱 Atualmente estou aprendendo ReactJs e NodeJS<br/>
-- 📜 Estou Cursando o 3º período em Sistemas de Informações (Bacharel)<br/>
+- 📜 Estou Cursando o 4º período em Sistemas de Informações (Bacharel)<br/>
 - 🖱️  Design Gráfico +10y<br/>
 <hr>
 <div align="left">
