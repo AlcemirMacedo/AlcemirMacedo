@@ -5,11 +5,7 @@
 - 📜 Estou Cursando o 4º período em Sistemas de Informações (Bacharel)<br/>
 - 🖱️  Design Gráfico +10y<br/>
 <hr>
-<div align="left">
-  <a href="https://github.com/AlcemirMacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlcemirMacedo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlcemirMacedo&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+
 <div style="display: inline_block"><br>  
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
