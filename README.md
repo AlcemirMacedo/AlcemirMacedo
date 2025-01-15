@@ -1,8 +1,8 @@
-<h1>Alcemir Macêdo Desenvolvedor Front-end</h1>
-- 👋 Olá, eu sou Alcemir Macêdo<br/>
-- 👀 Focado em tecnologias front-end<br/>
-- 🌱 Atualmente estou me aperfeiçoando em ReactJs<br/>
-- 📜 Estou Cursando o 4º período em Sistemas de Informações (Bacharel)<br/>
+<h1>Alcemir Macêdo -> Laravel Full Stack Devoloper</h1>
+- 👋 Laravel<br/>
+- 👀 ReactJs<br/>
+- 🌱 Delphi<br/>
+
 <hr>
 
 <div style="display: inline_block"><br>  
